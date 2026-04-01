@@ -67,14 +67,6 @@ Plateforme de collaboration pour développeurs
 
 ---
 
-## 📊 Statistiques GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME\&show_icons=true)
-
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME\&layout=compact)
-
----
-
 ## 📫 Me contacter
 
 * 📧 Email : dembeledjime83@gmail.com
